@@ -1,4 +1,4 @@
-package enumClass;
+package enumClass.exercicio1;
 
 import java.util.ArrayList;
 import java.util.Calendar;

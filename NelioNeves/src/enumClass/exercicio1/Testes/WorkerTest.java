@@ -1,4 +1,4 @@
-package enumClass.Testes;
+package enumClass.exercicio1.Testes;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -6,10 +6,10 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import enumClass.Departement;
-import enumClass.HourContract;
-import enumClass.Worker;
-import enumClass.WorkerLevel;
+import enumClass.exercicio1.Departement;
+import enumClass.exercicio1.HourContract;
+import enumClass.exercicio1.Worker;
+import enumClass.exercicio1.WorkerLevel;
 
 
 /* Agradeço por chegar até aqui!

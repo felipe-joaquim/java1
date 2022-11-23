@@ -1,4 +1,4 @@
-package enumClass;
+package enumClass.exercicio1;
 
 import java.time.LocalDate;
 import java.util.Date;

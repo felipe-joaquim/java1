@@ -1,4 +1,4 @@
-package enumClass;
+package enumClass.exercicio1;
 
 public class Departement {
     private String departementName;

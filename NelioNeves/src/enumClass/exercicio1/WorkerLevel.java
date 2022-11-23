@@ -1,4 +1,4 @@
-package enumClass;
+package enumClass.exercicio1;
 
 public enum WorkerLevel {
     JUNIOR,
