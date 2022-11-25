@@ -1,0 +1,13 @@
+Olá!
+Decidi criar duas classes nesse exercicio: uma usando switch-case e outra if-else; nesse exercício foram criadas 3 classes
+entities: Produto, ProdutoImportado e ProdutoUsado.
+    As classe produtoImportado e Usado possuem os mesmo atributos base da classe produto, por isso são extensões da
+    classe Produto, ou seja, ProdutoImportado e ProdutoUsado herdam Produto.
+
+    * decidir fazê-lo para comparar para saber qual teria uma maior economia de linhas. Acabei chegando a
+    conclusão que seria melhor fazer o uso do if-else, pois no switch-case teria que receber um nome e preço em cada um
+    do casos.
+        No if-else não, eu coloquei as variaveis que receberam o nome e preço fora, já que são básicas de cada classe,
+        e só completei o que seria necessário
+        em cada tipo.
+
