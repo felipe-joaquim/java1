@@ -1,4 +1,4 @@
-package heranca_e_polimorfismo.exercicio_resolvido2.entities;
+package heranca_e_polimorfismo._2_exercicio_resolvido.entities;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

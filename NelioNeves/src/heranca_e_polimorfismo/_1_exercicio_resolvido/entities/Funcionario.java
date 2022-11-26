@@ -1,4 +1,4 @@
-package heranca_e_polimorfismo.exercicio_resolvido1.entities;
+package heranca_e_polimorfismo._1_exercicio_resolvido.entities;
 
 public class Funcionario {
     protected String name;

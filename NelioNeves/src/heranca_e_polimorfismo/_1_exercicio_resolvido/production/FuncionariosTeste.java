@@ -1,7 +1,7 @@
-package heranca_e_polimorfismo.exercicio_resolvido1.production;
+package heranca_e_polimorfismo._1_exercicio_resolvido.production;
 
-import heranca_e_polimorfismo.exercicio_resolvido1.entities.Funcionario;
-import heranca_e_polimorfismo.exercicio_resolvido1.entities.FuncionarioTerceirizado;
+import heranca_e_polimorfismo._1_exercicio_resolvido.entities.Funcionario;
+import heranca_e_polimorfismo._1_exercicio_resolvido.entities.FuncionarioTerceirizado;
 
 import java.util.ArrayList;
 import java.util.List;
