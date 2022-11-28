@@ -1,0 +1,14 @@
+Neste exercício foi proposto a criação e classes de pessoa fisica e juridica para
+cálculo de imposto anual.
+Cada classe possue um nome e ganhos anuais.
+A classe PessoaFisica possui gastos com saúde:
+    * se o ganhoAnual for maior que 20mil serão cobrados 25% de impostos;
+    * se o ganhoAnual for menor que 20mil serão cobrados 15% de impostos;
+    * gastos com saúde são descontados pela metade nos impostos.
+
+A classe PessoaJuridica possui uma quantidade de funcionarios:
+    * se funcionarios menor ou igual a 10 são cobrados 16% de impostos;
+    * se funcionarios maior que 10 são cobrados 14& de impostos.
+
+foi criado uma classe abstrata para conter os atributos comuns: nome e ganhos anuais;
+além do método impostos() que deve ser implementado para cálculo do imposto.
